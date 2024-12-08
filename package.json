@@ -18,7 +18,7 @@
     "d3": "~3.5.5",
     "fluxxor": "~1.7.3",
     "immutable": "~3.7.4",
-    "jquery": "~2.1.4",
+    "jquery": "~3.5.0",
     "jsonp": "^0.2.0",
     "lodash": "~3.10.0",
     "node-libs-browser": "~0.5.2",
